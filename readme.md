@@ -29,7 +29,7 @@ DB_USERNAME=root
 DB_PASSWORD=root
 ```
 
-Then run migrations:
+Then connect to your php80 container and run migrations:
 `php artisan db:migrate`
 
 # Usage
