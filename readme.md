@@ -30,7 +30,7 @@ DB_PASSWORD=root
 ```
 
 Then connect to your php80 container and run:
-`composer install` and then `php artisan db:migrate`
+`composer install` and then `php artisan migrate`
 
 # Usage
 You can use the seeder if you want to add some initial records to database
